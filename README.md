@@ -45,6 +45,7 @@ Bug report [di sini](https://github.com/Bangden/Just-Enter-Openlitespeed/issues)
 
 ## Premium Manage
 > - Installing SSL
+> - Migrasi server wp
 > - Optimasi Server
 > - Monitoring 24x7
 > - Advanced setup server
