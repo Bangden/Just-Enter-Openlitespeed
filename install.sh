@@ -2,9 +2,9 @@
 #######################################################
 #                                                     #
 # OpenLitespeed Just Enter                            #
-#	Dibuat oleh : https://www.instagram.com/bangden07   #
-#	Copyright 2016 www.bangden.id - bangden07@gmail.com	#
-#	Didukung oleh : www.indogonetwork.co.id             #
+# Dibuat oleh : https://www.instagram.com/bangden07   #
+# Copyright 2016 www.bangden.id - bangden07@gmail.com	#
+# Didukung oleh : www.indogonetwork.co.id             #
 #                                                     #	
 #######################################################
 yum -y update
