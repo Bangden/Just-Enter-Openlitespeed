@@ -11,5 +11,5 @@ yum -y update
 yum -y install unzip
 openssl aes-256-cbc -d -a -in konfig.sh -out mulai.sh -pass pass:bangden
 chmod +x mulai.sh
-echo ""
-./mulai.sh
+clear
+sh ./mulai.sh
