@@ -53,3 +53,7 @@ Bug report [di sini](https://github.com/Bangden/Just-Enter-Openlitespeed/issues)
 <br />
 Email ke [bangden07@gmail.com](mailto:bangden07@gmail.com) <br />
 [![ORDER](http://survivalist.com/images/buttons/order-set3-blue.png)](https://bit.ly/2d0vt1z)
+
+## Thanks to
+- [CV. Indo Go Network](https://www.indogonetwork.co.id)
+- [Lapakinstan](https://www.lapakinstan.com)
