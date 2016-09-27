@@ -12,5 +12,6 @@ openssl rc4 -d -a -in konfig.sh -out mulai.sh -pass pass:bangden
 chmod +x mulai.sh
 clear
 sed -i 's/\r//' mulai.sh
+echo ""
 clear
 sh ./mulai.sh
